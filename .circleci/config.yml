@@ -13,12 +13,4 @@ workflows:
       - welcome/run
 
 
-<<<<<<< HEAD
-      #un cambio en v3
-      #ahora se modifica una nueva linea
-=======
-      #un cambio en v2
-      #un cambio en v3
-      #ahora se modifica una nueva linea
-      #esto es parte de la modificacion de v2
->>>>>>> v2
+#se eliminan todos los cambios
