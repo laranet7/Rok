@@ -12,11 +12,5 @@ workflows:
     jobs:
       - welcome/run
 
-<<<<<<< HEAD
 
-# cambio en el sorce principal
-# V4
-=======
-#test del dia 03/04/2020
-#nuevo test agregado.
->>>>>>> V2_Jose_20200403
+#V4 con V2
