@@ -13,12 +13,4 @@ workflows:
       - welcome/run
 
 
-<<<<<<< HEAD
-      #un cambio
-      #le pondre mas vida <- y esta wea se borra
-
-
-      #este cambio es de Jose
-=======
-#se eliminan todos los cambios
->>>>>>> origin/v3
+# cambio en el sorce principal
