@@ -12,8 +12,17 @@ workflows:
     jobs:
       - welcome/run
 
+#test del dia 03/04/2020
 
+<<<<<<< HEAD
 # cambio en el sorce principal
 # nuevo cambio en el source principal
 
+
+=======
+<<<<<<< HEAD
+#ramita agregada para test.
+=======
+# cambio en el sorce principal
+# V4
 # VJOSE INTO V3
